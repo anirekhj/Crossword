@@ -1,4 +1,4 @@
-# Crossword
+# Crossword&#x26a0;
 
 A Crossword Puzzle solver.
 (Beta Version)  
