@@ -1,4 +1,5 @@
 # Crossword
 
 A Crossword Puzzle solver.
-(In Progress)
+(Beta Version)  
+There are a few bugs that need fixing.
