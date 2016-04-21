@@ -1,5 +1,7 @@
 # Crossword
 
 A Crossword Puzzle solver.
-(Beta Version)  
-There are a few bugs that need fixing.
+(Beta Version)
+Written in Racket (formerly PLT Scheme).  
+Uses Graphs and backtracking algorithm to maximise efficiency
+A few bugs that will be fixed soon.
